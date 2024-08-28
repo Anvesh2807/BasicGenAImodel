@@ -4,7 +4,7 @@ pip install openai==0.28
  #Example: Baisc Code
 
 import openai
- #Replace 'your-api-key' with your actual OpenAI API key
+#Replace 'your-api-key' with your actual OpenAI API key
 openai.api_key = 'OpenAI Key'
 response = openai.ChatCompletion.create(
     model="gpt-3.5-turbo",
