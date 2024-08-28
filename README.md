@@ -1,8 +1,7 @@
 pip install openai==0.28
 
 
-
-" Basic code"
+Example: Baisc Code
 import openai
 
 # Replace 'your-api-key' with your actual OpenAI API key
