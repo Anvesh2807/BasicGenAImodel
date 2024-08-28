@@ -1,7 +1,7 @@
 import openai
 
 # Replace 'your-api-key' with your actual OpenAI API key
-openai.api_key = 'sk-proj-wyp6TCVsueBXqH1GgYNIT3BlbkFJVEsuZOPZ2PlDXr5anEIm'
+openai.api_key = 'your-api-key'
 
 def chat_with_openai():
     messages = [
